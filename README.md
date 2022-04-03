@@ -6,6 +6,10 @@ This site provides tools developed for MetaTrader users.
 
 If you have multiple installations of MetaTrader on a single computer running the same EA, you can automate the replacement of EAs.
 
+## EA Compile
+
+Compile multiple EAs at once.
+
 ## MT Monitor
 
 Checks if MetaTrader is running.
