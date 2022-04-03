@@ -1,16 +1,19 @@
-### Hi there 👋
+# MetaTrader Developer Tools
 
-<!--
-**MetaTraderDeveloperTools/MetaTraderDeveloperTools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This site provides tools developed for MetaTrader users.
 
-Here are some ideas to get you started:
+## EA Replace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have multiple installations of MetaTrader on a single computer running the same EA, you can automate the replacement of EAs.
+
+## MT Monitor
+
+Checks if MetaTrader is running.
+
+## MetaTrader Manager Wrapper for Begginer
+
+A tool for easy use of the MetaTrader Manager provided to FX brokers affiliated with MetaQutes.
+
+## Contact Us
+
+[MetaTrader Developer Tools](https://metatrader25.wixsite.com/metatrader-developer)
